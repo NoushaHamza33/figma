@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 "# figma" 
 "# nexcent-project" 
 "# nexcent-project" 
+# figma_project
